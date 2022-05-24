@@ -11,10 +11,10 @@ module.exports = {
   theme: {
     extend: {},
   },
-  plugins: [require("daisyui")],
+  //plugins: [require("daisyui")],
 
   // daisyUI config (optional)
   daisyui: {
-    themes: ["dark"],
+    // themes: ["dark"],
   },
 };
