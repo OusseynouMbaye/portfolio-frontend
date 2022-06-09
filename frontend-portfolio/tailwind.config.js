@@ -5,13 +5,17 @@ module.exports = {
     "./pages/**/*.vue",
     "./plugins/**/*.{js,ts}",
     "./app.vue",
+   
     //"./nuxt.config.{js,ts}",
   ],
 
   theme: {
     extend: {},
   },
-  //plugins: [require("daisyui")],
+  plugins: [
+   // require("daisyui"),
+  
+  ],
 
   // daisyUI config (optional)
   daisyui: {

@@ -1,5 +1,6 @@
 <template>
-  <div class="container mx-auto bg-gray-300 p-8">
+
+  <div class="container mx-auto bg-gray-300 p-8 dark-mode">
     <h1 class="font-bold text-gray-600 text-lg">Hello, Tailwind 3!</h1>
     <p class="test-class">
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis, totam
@@ -9,14 +10,3 @@
     </p>
   </div>
 </template>
-<script>
-export default {
-  
-}
-</script>
-
-<style>
-.test-font {
-
-}
-</style>
